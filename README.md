@@ -25,7 +25,7 @@ bash scripts/run_all_metrics.sh
 # 4. View reports
 ls reports/
 ```
-#testing
+
 ---
 
 ## Repository Structure
